@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdulrahmandev10@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny😃**
+- ⚡ Fun fact **BE FEARLESS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
