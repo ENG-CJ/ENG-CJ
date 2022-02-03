@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-cj&label=Profile%20views&color=0e75b6&style=flat" alt="eng-cj" /> </p>
 
-- 🔭 I’m currently working on [HOSPITAL MANAGMENT DB PROJECT](....)
+- 🔭 I’m currently working on [None](....)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ENG-CJ](https://github.com/ENG-CJ)
 
-- 💬 Ask me about **Python,flask,And Html&Css**
+- 💬 Ask me about **Python,FrontEnd Technologies**
 
 - 📫 How to reach me **abdulrahmandev10@gmail.com**
 
