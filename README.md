@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-cj&label=Profile%20views&color=0e75b6&style=flat" alt="eng-cj" /> </p>
 
-- 🔭 I’m currently working on [None](....)
+- 🔭 I’m currently working on [Medical Lab Management System](https://www.github.com/ENG-CJ)
 
 - 🌱 I’m currently learning **ReactJs**
 
