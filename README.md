@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Medical Lab Management System](https://www.github.com/ENG-CJ)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ENG-CJ](https://github.com/ENG-CJ)
 
