@@ -4,7 +4,7 @@
     <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=ENG-CJ.ENG-CJ)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
 <h2>Details</h2>
