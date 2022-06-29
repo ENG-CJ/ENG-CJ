@@ -5,7 +5,7 @@
 </p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=ENG-CJ.ENG-CJ)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+[![Github](https://img.shields.io/github/followers/ENG-CJ?label=Follow&style=social)](https://github.com/ENG-CJ)
 
 <h2>Details</h2>
 
