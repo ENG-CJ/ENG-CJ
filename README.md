@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ENG-CJ](https://github.com/ENG-CJ)
 
-- 💬 Ask me about **Python,FrontEnd Technologies**
+- 💬 Ask me about **PYTHON AND FRONT-END TECHNOLGIES**
 
 - 📫 How to reach me **abdulrahmandev10@gmail.com**
 
