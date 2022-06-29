@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Results Management System](https://www.github.com/ENG-CJ)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **PHP AND MYSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ENG-CJ](https://github.com/ENG-CJ)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdulrahmandev10@gmail.com**
 
-- ⚡ Fun fact **BE FEARLESS**
+- ⚡ Fun fact **Learning How To Code It teaches You how To Think**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
