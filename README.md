@@ -25,7 +25,6 @@
 
 - ⚡ Fun fact **Learning How To Code It Teaches YOU How To Think**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
