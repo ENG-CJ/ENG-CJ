@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="[https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png](https://iconscout.com/illustrations/coder)">
+    <img width="200" src="(https://iconscout.com/illustrations/coder)">
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdulrahman Haaji</h1>
