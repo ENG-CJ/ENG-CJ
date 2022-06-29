@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Haaji</h1>
 <h3 align="center">A passionate Apps&Web Development</h3>
 
-<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+<p align="left">
+    <img width="80" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
 </p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
