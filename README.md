@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-cj" alt="eng-cj" /></a> </p>
 
-- 🔭 I’m currently working on [Results Management System](https://www.github.com/ENG-CJ)
+- 🔭 I’m currently working on [Electronic Management System](https://www.github.com/ENG-CJ)
 
 - 🌱 I’m currently learning **PHP AND MYSQL**
 
