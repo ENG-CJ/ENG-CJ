@@ -1,5 +1,6 @@
 <p align="center">
-    <img width="200" src="https://iconscout.com/lottie/coding-4536620?utm_campaign=search&utm_medium=marketplace&utm_source=lottiefiles">
+    <video src="https://cdnl.iconscout.com/lottie/premium/thumb/coding-4536620-3766607.mp4"></video>
+    //<img width="200" src="https://iconscout.com/lottie/coding-4536620?utm_campaign=search&utm_medium=marketplace&utm_source=lottiefiles">
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdulrahman Haaji</h1>
