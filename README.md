@@ -1,5 +1,5 @@
 <p align="center">
- <img width="200" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+ <img width="500" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdulrahman Haaji</h1>
