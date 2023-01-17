@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-cj" alt="eng-cj" /></a> </p>
 
-- 🔭 I’m currently working on [Electronic Management System](https://www.github.com/ENG-CJ)
+- 🔭 I’m currently working on [VOTING ONLINE SYSTEM USING PHP AND MYSQL](https://www.github.com/ENG-CJ)
 
-- 🌱 I’m currently learning **PHP AND MYSQL**
+- 🌱 I’m currently learning **Dart Language**
 
 - 👯 I’m looking to collaborate on [Web-Development Projects, System Development AND IOT](https://www.github.com/ENG-CJ)
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/ENG-CJ](https://www.github.com/ENG-CJ)
 
-- 💬 Ask me about **PYTHON , SQL-SERVER , FRONTEND-TECH AND C#**
+- 💬 Ask me about **.NET(C#), Flutter And Web Apps**
 
 - 📫 How to reach me **abdulrahmandev10@gmail.com**
 
