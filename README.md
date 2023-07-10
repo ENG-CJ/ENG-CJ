@@ -1,4 +1,5 @@
-# 💫 About Me:
+## I'm Abdulrahman And I'm a Software Developer From Somalia 😎🎇, Let's Code Together
+# 💫 Drafts:
 I'm Current working On:  [House Access Rental]✔<br>I'm Current Learning:  [Flutter]<br>Ask Me About:  Tech's Specified on My Profile<br>- Learning How to code it teaches you how to think-🔥<br>
 
 
