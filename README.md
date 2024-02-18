@@ -88,7 +88,15 @@
    </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/angular%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/angular%20-%23F7DF1E.svg?style=plastic&logo=angular&logoColor=black">
+   </a>
+ &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/bootstrap%20-%23F7DF1E.svg?style=plastic&logo=bootstrap&logoColor=black">
+   </a>
+ &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/jquery%20-%23F7DF1E.svg?style=plastic&logo=jquery&logoColor=black">
    </a>
 </p>
 
@@ -116,9 +124,25 @@
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/postgressql%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/postgresql-%234479A1.svg?&style=plastic&logo=postgresql&logoColor=white"/></a>
 &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/sqlserver%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/microsoftsqlserver-%234479A1.svg?&style=plastic&logo=microsoftsqlserver&logoColor=white"/></a>
+	&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/postman-%234479A1.svg?&style=plastic&logo=postman&logoColor=white"/></a>
+	&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/framer-%234479A1.svg?&style=plastic&logo=framer&logoColor=white"/></a>
+&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/codeigniter-%234479A1.svg?&style=plastic&logo=codeigniter&logoColor=white"/></a>
+&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/heroku-%234479A1.svg?&style=plastic&logo=heroku&logoColor=white"/></a>
+&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/render-%234479A1.svg?&style=plastic&logo=render&logoColor=white"/></a>
+&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/express-%234479A1.svg?&style=plastic&logo=express&logoColor=white"/></a>
+&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/githubsponsors-%234479A1.svg?&style=plastic&logo=githubsponsors&logoColor=white"/></a>
+&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/vite-%234479A1.svg?&style=plastic&logo=vite&logoColor=white"/></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
