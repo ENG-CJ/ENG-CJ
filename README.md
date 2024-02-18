@@ -28,7 +28,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="#"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fieee&psig=AOvVaw1dJNTEVEF87gHGv1bGXAGw&ust=1708361189243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCQxcGrtYQDFQAAAAAdAAAAABAE" alt="Code Forces"/></a>
+  <a href="#"><img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fess.ieee.org.ua%2Faboutieee%2F&psig=AOvVaw1dJNTEVEF87gHGv1bGXAGw&ust=1708361189243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCQxcGrtYQDFQAAAAAdAAAAABAk" alt="Code Forces"/></a>
 	
 </p>
 
