@@ -22,7 +22,6 @@
 - :computer: I am a competitive programmer at `IEEE REGION 8`, `Atcoder`.
 - :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always `learning new things (Tech)`.
-- :boom: You can visit [MY WEBSITE](#).
 <br>
 
 
