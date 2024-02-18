@@ -56,7 +56,11 @@
   </a>
  &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/csharp%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/csharp%20-%2314354C.svg?style=plastic&logo=csharp&logoColor=white">
+  </a>
+ &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/php%20-%2314354C.svg?style=plastic&logo=php&logoColor=white">
   </a>
 </p>
 
