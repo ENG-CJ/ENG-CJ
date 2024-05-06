@@ -17,7 +17,7 @@
 
 <br><br>
 
-- :school: I am a `Software Developer` at HilaalTech
+- :school: I am a `Software Developer` at TabarakICT
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `IEEE REGION 8`, `Atcoder`.
 - :student: I’m currently learning `Computer Science`.
